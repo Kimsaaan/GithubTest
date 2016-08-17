@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello Github.");
         System.out.println("yes.");
         System.out.println("yes.");
+        System.out.println("no.");
     }
 }
