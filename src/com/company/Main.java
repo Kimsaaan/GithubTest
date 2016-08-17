@@ -7,5 +7,9 @@ public class Main {
         System.out.println("yes.");
         System.out.println("yes.");
         System.out.println("no.");
+        
+        
+        
+        System.out.println("Kajsa is not the best")
     }
 }
